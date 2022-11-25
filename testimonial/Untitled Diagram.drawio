@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T10:01:46.949Z" agent="5.0 (X11; Ubuntu)" version="20.6.0" etag="dHUvmwCvZ811fZOMUERW" type="github"><diagram id="2o4LyUtGHH1WCpghKlRJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:50:45.629Z" agent="5.0 (X11; Ubuntu)" version="20.6.0" etag="A2IbYq_P0HF1i_pVNvWF" type="github">
+  <diagram id="IYdC14rspRzDc0qpmmBN" name="Page-1">
+    <mxGraphModel dx="2453" dy="2624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-1" target="U5Zd06eLlOXdrQ8OyfMF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-17" value="Login to Space 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5Zd06eLlOXdrQ8OyfMF-7">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-1" value="User&amp;nbsp; Login " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="-1020" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-4" value="&lt;div align=&quot;center&quot;&gt;Role:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Role Admin (Platform) Permissions: {1,2,3,4,5}&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Role Admin (Space 1) Permissions: {3,4,5,6,7,8}&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-1110" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-5" target="U5Zd06eLlOXdrQ8OyfMF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-26" value="Switch to Space 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5Zd06eLlOXdrQ8OyfMF-22">
+          <mxGeometry x="-0.312" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-5" value="&lt;div&gt;Permissions:&lt;/div&gt;&lt;div&gt;{1,2,3,4,5,6,7,8}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-852.5" y="-850" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-9" value="&lt;div&gt;Permissions:&lt;/div&gt;&lt;div&gt;{1,2,3,4,5}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-860" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-1" target="U5Zd06eLlOXdrQ8OyfMF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="-1010" as="sourcePoint" />
+            <mxPoint x="-630" y="-1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-21" target="U5Zd06eLlOXdrQ8OyfMF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5Zd06eLlOXdrQ8OyfMF-23">
+          <mxGeometry x="-0.4836" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-21" value="Is Platform Admin" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-872.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-29" target="U5Zd06eLlOXdrQ8OyfMF-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-28" value="Login to Space 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5Zd06eLlOXdrQ8OyfMF-27">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-29" value="User&amp;nbsp; Login " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1507.5" y="-380" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-30" value="&lt;div align=&quot;center&quot;&gt;Role:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Role Admin (Space 3) Permissions: {3,4,5,6,7,8}&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1372.5" y="-470" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-33" target="U5Zd06eLlOXdrQ8OyfMF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-32" value="Switch to Space 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5Zd06eLlOXdrQ8OyfMF-31">
+          <mxGeometry x="-0.312" y="1" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-33" value="&lt;div&gt;Permissions:&lt;/div&gt;&lt;div&gt;{3,4,5,6,7,8}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-210" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U5Zd06eLlOXdrQ8OyfMF-29" target="U5Zd06eLlOXdrQ8OyfMF-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1357.5" y="-370" as="sourcePoint" />
+            <mxPoint x="-1307.5" y="-420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-38" value="Is Platform Admin" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-232.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="U5Zd06eLlOXdrQ8OyfMF-39" value="Role: Context Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-1155" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
